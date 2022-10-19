@@ -1,0 +1,13 @@
+{
+  "name": "gentxs_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bech32-converting": "^1.0.9",
+    "csv": "^6.2.1"
+  }
+}
