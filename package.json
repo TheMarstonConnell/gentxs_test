@@ -4,10 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "peers": "node peers.js"
   },
   "dependencies": {
     "bech32-converting": "^1.0.9",
-    "csv": "^6.2.1"
+    "csv": "^6.2.1",
+    "sqlite3": "^5.1.2"
   }
 }
